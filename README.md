@@ -1,5 +1,9 @@
 # Building tiny-cuda-nn for PyTorch in Docker
 
+[
+![Docker Image Version (latest semver)](https://img.shields.io/docker/pulls/fnndsc/tinycudann)
+](https://hub.docker.com/r/fnndsc/tinycudann)
+
 [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) must be compiled from source.
 The binaries target specific NVIDIA cards by their **compute capability** numbers.
 
